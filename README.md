@@ -2,9 +2,7 @@
 This project focuses on analyzing Blinkit sales data using Python to extract meaningful business insights. The analysis helps understand sales performance, customer behavior, and product trends.
 
 🔧 Tools & Technologies Used
-
 Python
-
 Jupyter Notebook
 
 Pandas
